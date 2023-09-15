@@ -1,0 +1,10 @@
+server:
+  port: 9090
+
+spring:
+  data:
+    mongodb:
+      database: Spring-Reactive
+      host: localhost
+      port: 27017
+
